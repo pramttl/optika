@@ -1,0 +1,1 @@
+This module aims at calculating the shortest path between two points.
